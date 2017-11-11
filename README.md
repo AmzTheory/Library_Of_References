@@ -4,13 +4,13 @@ In this file we will try to put some useful links to useful sites from the inter
 
 
 # Computer Science(General)
-##Computer Scinece Explained
 
+## Computer Scinece Explained
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 Youtube playlist  videos that explaing breiefly computer scinece concept (will be good to watch it if you want to know what is computer scinece)
 
 # Programming Concepts (Algorthims,Solving Problem)
-Solving Programming Challenges
+## Solving Programming Challenges
 https://open.kattis.com/
 https://codecon.bloomberg.com/challenger-series
 
