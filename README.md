@@ -18,7 +18,7 @@ Youtube playlist  videos that explains breiefly computer scinece topics (will be
 https://open.kattis.com/<br />
 https://codecon.bloomberg.com/challenger-series<br />
 
-# Embeded Systems
+# Embedded Systems
 
 # Mobile Development
 
@@ -26,6 +26,6 @@ https://codecon.bloomberg.com/challenger-series<br />
 
 # Electronics
 
-# Mathmatics 
+# Mathematics 
 
 # Intersting Articles(General)
