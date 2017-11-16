@@ -28,5 +28,5 @@ https://codecon.bloomberg.com/challenger-series<br />
 
 # Mathematics 
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured<br/>
-Channel that explaines Mathematiecs in animated way, allows you to visualize from differnet MATH prospective which will make you enjoy it  More!<br />
+Channel that explaines Mathematiecs in animated way, allows you to visualize MATH from differnet prospective which will make you enjoy it  More!<br />
 # Intersting Articles(General)
