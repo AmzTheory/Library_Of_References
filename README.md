@@ -10,7 +10,7 @@ In this page we will try to put some useful links to useful sites from the inter
 
 ## Computer Scinece Explained
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo<br/>
-Youtube playlist  videos that explains breiefly computer scinece topics (will be good to watch it if you want to know what is computer scinece)
+Youtube playlist  videos that explains breiefly computer scinece topics (will be good to watch it if you want to know what computer scinece is about)
 
 # Programming Concepts (Algorthims,Solving Problems,Common Programming Issues)
 
