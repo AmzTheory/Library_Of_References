@@ -20,6 +20,8 @@ https://codecon.bloomberg.com/challenger-series<br />
 ## Programming Tutorials
 https://freecourses.github.io/#/category/Node<br />
 Fantastic Website to look for various Free online Tutorial Corurse (the Good thing that anyone can contribute) <br />
+http://www.tutorialride.com/<br />
+essential site for computer scientist /<br />
 # Embedded Systems
 
 # Mobile Development
