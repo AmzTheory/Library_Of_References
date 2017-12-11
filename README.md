@@ -7,6 +7,8 @@ In this page we will try to put some useful links to useful sites from the inter
    Jonas Wanke  
 
 # Computer Science(General)
+http://www.pling.org.uk/cs/<br/>
+extermly useful link (notes for computer science modules)<br/>
 
 ## Computer Scinece Explained
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo<br/>
